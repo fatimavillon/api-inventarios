@@ -1,0 +1,25 @@
+{
+  "name": "api-inventarios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api-inventarios": "file:",
+    "aws-sdk": "^2.1692.0",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "serverless-http": "^3.2.0"
+  },
+  "devDependencies": {
+    "serverless-python-requirements": "^6.1.1",
+    "serverless-wsgi": "^3.0.5"
+  }
+}
